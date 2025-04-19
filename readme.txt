@@ -1,7 +1,7 @@
 Houseme – Real Estate UI
 A frontend prototype for a property listing website (UI only, no backend). Browse home listings with a clean, responsive design.
 
-🖥 Live Demo: hishamkool.github.io/Houseme/
+🖥 Live Demo: https://hishamkool.github.io/Houseme/
 ⚙️ Tech: HTML, CSS, JavaScript
 
 
